@@ -3,6 +3,6 @@ welcome to git hub.
 
 its welcome file.
 
-some text
+//remove some text
 
 done
